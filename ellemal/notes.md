@@ -25,15 +25,12 @@ References
 * [Dictionnaire Infernal](https://archive.org/details/bub_gb_KSRbAAAAcAAJ)
 * [Anatomia del corpo humano](https://archive.org/details/9617625.nlm.nih.gov)
 * [Devises heroiques, et emblemes by Paradin, Claude](https://archive.org/details/devisesheroiques01para)
-* [Locupletissimi rerum naturalium thesauri accurata descriptio, et iconibus artificiosissimis expressio, per universam physices historiam
-* by Seba, Albertus](https://archive.org/details/Locupletissimir2Seba)
-* [Edwin Austin Abbey, royal academician; the record of his life and work
-* by Lucas, E. V. (Edward Verrall), 1868-1938](https://archive.org/details/edwinaustinabbey01luca)
+* [Locupletissimi rerum naturalium thesauri accurata descriptio, et iconibus artificiosissimis expressio, per universam physices historiam by Seba, Albertus](https://archive.org/details/Locupletissimir2Seba)
+* [Edwin Austin Abbey, royal academician; the record of his life and work by Lucas, E. V. (Edward Verrall), 1868-1938](https://archive.org/details/edwinaustinabbey01luca)
 * [AEsop's fables by Aesop; Rundell, Joseph Benjamin; Griset, Ernest](https://archive.org/details/aesopsfables00aesorich)
 * [La doctrine des moevrs, tiree de la philosophie des stoiques, representee en cent tableavx et expliqvee en cent discovrs pour l'instruction de la ieunesse by Gomberville, M. Le Roy (Marin Le Roy), sieur de, 1600-1674; Daret, Pierre, 1604-1678](https://archive.org/details/ladoctrinedesmoe01gomb)
 * [Geometriae practicae novae et auctae : tractatus I[-IV] ..](https://archive.org/details/geometriaepracti00schw)
-* [Rhetorica christiana : ad concionandi et orandi vsvm accommodata, vtrivsq[ue] facvltatis exemplis svo loco insertis : qvae qvidem ex Indorvm maximè deprompta svnt historiis : vnde praeter doctrinam, svma qvoqve delectatio comparabitvr
-* by Valadés, Diego, b. 1533](https://archive.org/details/rhetoricachristi00vala)
+* [Rhetorica christiana : ad concionandi et orandi vsvm accommodata, vtrivsq(ue) facvltatis exemplis svo loco insertis : qvae qvidem ex Indorvm maximè deprompta svnt historiis : vnde praeter doctrinam, svma qvoqve delectatio comparabitvr by Valadés, Diego, b. 1533](https://archive.org/details/rhetoricachristi00vala)
 * [Templvm gratiarvm, serenissimi ... ](https://archive.org/details/templvmgratiarvm00sade)
 * [Almagestum nouum](https://archive.org/details/bub_gb_KcKeqsUu7FwC)
 * [Chemisch Kabinet (Atalanta Fugiens) by Michael Maier ](https://archive.org/details/ChemischKabinetatalantaFugiens)
