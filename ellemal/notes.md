@@ -16,7 +16,7 @@ Sayings
 * shit (el wire)
 * There's a voice in my head that says I'm better off dead
 * Too late to die young
-
+* as above, so below
 
 References
 ---
@@ -59,3 +59,7 @@ References
 * [Our new guide to rose culture : 1891. at BHL](https://www.biodiversitylibrary.org/page/43875622#page/80/mode/1up)
 
 * [Fables for the female sex](https://archive.org/details/fablesforfemales00moor/page/n41)
+* [Among the moths and butterflies : a revised and enlarged edition of "Insect lives ; or, Born in prison"
+by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/page/92)
+* [Celestial Atlas by Alexander Jamieson](http://aa.usno.navy.mil/library/artwork/jamieson.htm)
+
