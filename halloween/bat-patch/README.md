@@ -26,7 +26,7 @@ Once exported open it with `laserweb`:
 * Select the 'invert' option and unset the 'burn white' option
 * Generate the GCode and save it.
 
-The output is in a DOS format (carriage return and line feed after every line) so I clen it up by running `dos2unix`.
+The output is in a DOS format (carriage return and line feed after every line) so I clean it up by running `dos2unix`.
 I also remove the comments (`s/;.*//`) in addition to adding a `G0 F5000` at the top to make the rapid motion faster.
 
 I use a cotton polyester or rayon fabric (I can't remember which). I believe it's the 100% rayon as it melts and feels
@@ -41,7 +41,7 @@ From the traced out patch, I cut out the excess panel portions making sure to le
 wires connect to the panel.
 
 Once I'm satisfied that the patch can cover the panel, I glue the patch onto the panel with Gorilla glue.
-I've found that other glue has a hard time bonding, including elmers, super glue and model glue.
+I've found that other glue has a hard time bonding, including Elmer's, super glue and model glue.
 Gorilla glue works well but is messy and leaves bumps or other gunk so it should be applied sparingly.
 The Gorilla glue is strong, so only a small amount needs to be applied.
 
@@ -61,9 +61,9 @@ the glue is still wet.
 Once the glue has dried enough to be fixed in place, I shave off any excess panel that I need to, in case
 there's some poking out of the edges.
 
-On the back of the EL panel, I put a coule of velcro strips.
+On the back of the EL panel, I put a couple of Velcro strips.
 On a jacket, I do an initial 'spot' position the panel to get a good sense for where it's placed.
-Once I'm satisifed with the position, I stick the velcro counterpart onto the jacket.
+Once I'm satisfied with the position, I stick the Velcro counterpart onto the jacket.
 I also cut a small access hole to the EL panel 'tongue' and feed the panel through.
 
 Once the wire is in the jacket, I tear a small hole in the lining so that I can grab and manipulate the wiring
@@ -77,4 +77,4 @@ Once I do a quick test to make sure everything still works, the jacket is ready 
 License
 ---
 
-Everything in this directory, unless explicitely stated otherwise, is under a CC0 license.
+Everything in this directory, unless explicitly stated otherwise, is under a CC0 license.
