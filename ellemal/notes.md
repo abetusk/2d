@@ -17,6 +17,9 @@ Sayings
 * There's a voice in my head that says I'm better off dead
 * Too late to die young
 * as above, so below
+* witch bitch
+* live fast, live forever
+* witch cat
 
 References
 ---
