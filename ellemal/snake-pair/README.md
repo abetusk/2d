@@ -8,9 +8,9 @@ Snake Pair
 Credits
 ---
 
-* [Snakes](https://www.biodiversitylibrary.org/item/133381#page/72/mode/1up))
+* [Snakes](https://www.biodiversitylibrary.org/item/133381#page/72/mode/1up)
 * [Moon Phases](https://commons.wikimedia.org/wiki/File:Moon_Phases.svg)
-* [Eye](https://archive.org/details/regvlaemblematic01bene/page/n83))
+* [Eye](https://archive.org/details/regvlaemblematic01bene/page/n83)
 
 License
 ---
