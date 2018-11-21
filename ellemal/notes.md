@@ -65,4 +65,5 @@ References
 * [Among the moths and butterflies : a revised and enlarged edition of "Insect lives ; or, Born in prison"
 by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/page/92)
 * [Celestial Atlas by Alexander Jamieson](http://aa.usno.navy.mil/library/artwork/jamieson.htm)
-
+* [The Rubaiyat of Omar Khayyam - First Version - Illustrated](https://archive.org/details/TheRubaiyatOfOmarKhayyam-FirstVersion-Illustrated/page/n109)
+* [The three circuits: a study of the primary forces by Flick, Taylor](https://archive.org/details/threecircuitsstu00flic/page/140)
