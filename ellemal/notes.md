@@ -73,4 +73,4 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [The silly jelly-fish by Chamberlain, Basil Hall](https://archive.org/details/sillyjellyfish00chamiala/page/n3)c
 * [Bully Bull Frog and his home in Rainbow Valley by Fry, Elizabeth Stafford](https://archive.org/details/bullybullfroghis00frye/page/n11)
 * [Alice's Adventures In Wonderland by Carroll, Lewis](https://archive.org/details/AlicesAdventuresInWonderland_201303/page/n18)
-
+* [McGuffey's eclectic primer by McGuffey, William Holmes](https://archive.org/details/mcguffeyseclecti00mcgu/page/26)
