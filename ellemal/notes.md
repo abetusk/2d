@@ -67,3 +67,10 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Celestial Atlas by Alexander Jamieson](http://aa.usno.navy.mil/library/artwork/jamieson.htm)
 * [The Rubaiyat of Omar Khayyam - First Version - Illustrated](https://archive.org/details/TheRubaiyatOfOmarKhayyam-FirstVersion-Illustrated/page/n109)
 * [The three circuits: a study of the primary forces by Flick, Taylor](https://archive.org/details/threecircuitsstu00flic/page/140)
+* [Zauberlinda, the wise witch](https://archive.org/details/zauberlindawisew00clap/page/50)
+* [A day's pleasure; or, The half-holiday adventures of some little people](https://archive.org/details/dayspleasureorha00geikiala/page/57)
+* [The serpent with eight heads by Chamberlain, Basil Hall](https://archive.org/details/serpentwitheight00chamiala/page/n11)
+* [The silly jelly-fish by Chamberlain, Basil Hall](https://archive.org/details/sillyjellyfish00chamiala/page/n3)c
+* [Bully Bull Frog and his home in Rainbow Valley by Fry, Elizabeth Stafford](https://archive.org/details/bullybullfroghis00frye/page/n11)
+* [Alice's Adventures In Wonderland by Carroll, Lewis](https://archive.org/details/AlicesAdventuresInWonderland_201303/page/n18)
+
