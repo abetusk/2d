@@ -21,6 +21,29 @@ Sayings
 * live fast, live forever
 * witch cat
 
+Sizes
+---
+
+| Name | Width (mm) | Height (mm) |
+|------|-------|--------|
+| A0 | 841 | 1189 |
+| A1 | 594 | 841 |
+| A2 | 420 | 595 |
+| A3 | 297 | 421 |
+| A4 (letter) | 215.9 | 279.4 |
+| A4 (legal) |  215.9 | 355.6 |
+| A5 | 148 | 210 |
+| A6 | 105 | 148 |
+| 10cm x 10cm | 100 | 100 |
+
+| Name | Size (mm x mm) | Estimated Price |
+|----------------|-----------------|
+| 10cm x 10cm | 100 x 100 | $3 |
+| A6 | 105 x 148  | $11  |
+| A5 | 148 x 210 | $13 |
+| A4 | 210 x 297 | $30 |
+
+
 References
 ---
 
