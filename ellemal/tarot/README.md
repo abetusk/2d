@@ -8,7 +8,7 @@ Some of the art has been edited to taste.
 
 ![tower](wd/RWS_Tarot_16_Tower_v0.1.1.png)
 
-![five of cups](five-of-cups_v0.1.0.png)
+![five of cups](wd/five-of-cups_v0.1.0.png)
 
 License
 ---
