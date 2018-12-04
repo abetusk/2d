@@ -1,1 +1,36 @@
 cc0 - https://upload.wikimedia.org/wikipedia/en/d/d7/RWS_Tarot_13_Death.jpg
+
+Process
+---
+
+* Create at least four layers
+  - original (untouched)
+  - background (black)
+  - frame (white outline)
+  - main piece
+* From the main piece, rework art to taste
+* Threshold to taste
+* Cleanup
+* Add jittered pencil (size 3, jitter 8) to try and connect negative islands
+* Create new image that has 20 extra pixels on each side
+* Copy the main piece to new work and place it in the center
+* Select the main work piece, copy it to new layer and invert. Make sure there is a solid outline of white.
+* Convolve the white outline layer (convolution matrix of all 1s except for 0s on 4 corner cells) until the
+  border is thick enough (twice did it for me)
+* Make a base background layer that's black
+* Createa group and put everything under the group in order
+* Export the high level group as a PNG
+
+Exporting
+---
+
+### LaserWeb
+
+* Import image (`Add Document`)
+* Deselect `Burn White`
+* Select `Invert Color`
+* Use `Cut Rate` of 4999
+* Leave other parameters unchanged (`Laser Power Range = 0 Min, 0 Max`, `Laser Diameter = 0.2 (mm)`, `Passes = 1`)
+* Under the `GCODE` section, hit `Generate` and make sure the preview matches the expectation of what should be burned
+* Under the `GCODE` section, hit the save icon and save the exported GCode
+* I like to clean up the file by removing comments and converting to *nix format
