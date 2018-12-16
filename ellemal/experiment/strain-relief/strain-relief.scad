@@ -1,11 +1,11 @@
-width = 12 + 2*2 + 2*2;
-length = 50;
-access_dw = 10;
-access_dl = 8;
+width = 18;
+length = 22;
+access_dw = 9;
+access_dl = 7;
 
 w2 = width/2;
 l2 = length/2;
-r = 4;
+r = 2;
 
 screw_r = 1;
 
@@ -22,11 +22,54 @@ module rounded_square(w,l,r) {
       translate([ w2,  l2]) circle(r, $fn=FN);
       translate([-w2,  l2]) circle(r, $fn=FN);
     };
+    
   };
     
 }
 
+//v2
 module strain_relief() {
+  width=18;
+  length = 22;
+  w2=width/2;
+  l2=length/2;
+  
+  d_s = 3*screw_r/2;
+  
+  difference() {
+    
+    union() {
+      translate([0,-l2/2]) rounded_square(width-r,l2-r,r);
+      translate([0, l2/2]) rounded_square(w2-r, l2-r, r);
+      translate([0,l2-r]) rounded_square(width-r,2*d_s,r);
+    }
+
+    translate([-(w2-d_s),-(l2-d_s)]) circle(screw_r, $fn=FN);
+    translate([ (w2-d_s),-(l2-d_s)]) circle(screw_r, $fn=FN);
+    translate([-(w2-d_s),-d_s]) circle(screw_r, $fn=FN);
+    translate([ (w2-d_s),-d_s]) circle(screw_r, $fn=FN);
+    translate([-(w2-d_s), (l2-d_s)]) circle(screw_r, $fn=FN);
+    translate([ (w2-d_s), (l2-d_s)]) circle(screw_r, $fn=FN);
+  };
+}
+
+
+module strain_relief_v1() {
+  
+  difference() {
+    rounded_square(width-r,length-r,r);
+    translate([0, (length - access_dl)/2 - 2*screw_r])
+      rounded_square(access_dw-r, access_dl-r, r);
+    translate([-(w2-screw_r),-(l2-screw_r)]) circle(screw_r, $fn=FN);
+    translate([ (w2-screw_r),-(l2-screw_r)]) circle(screw_r, $fn=FN);
+    translate([-(w2-screw_r),0]) circle(screw_r, $fn=FN);
+    translate([ (w2-screw_r),0]) circle(screw_r, $fn=FN);
+    translate([-(w2-screw_r), (l2-screw_r)]) circle(screw_r, $fn=FN);
+    translate([ (w2-screw_r), (l2-screw_r)]) circle(screw_r, $fn=FN);
+  };
+}
+
+module strain_relief_old() {
   
   recess_r = 2;
   //edge_r = (2*2 + 2*2)/2;
@@ -85,7 +128,20 @@ module strain_relief() {
   };
 }
 
+dx=22;
+dy=26;
+
 strain_relief();
-translate([w2+20, 0]) strain_relief();
+translate([dx, 0]) strain_relief();
+translate([2*dx, 0]) strain_relief();
+translate([3*dx, 0]) strain_relief();
+translate([4*dx, 0]) strain_relief();
+
+
+translate([0,dy]) strain_relief();
+translate([dx, dy]) strain_relief();
+translate([2*dx, dy]) strain_relief();
+translate([3*dx, dy]) strain_relief();
+translate([4*dx, dy]) strain_relief();
 
 //difference() { circle(10);  translate([-10,-10]) circle(10);  translate([10,-10]) circle(10);};

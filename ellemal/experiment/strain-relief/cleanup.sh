@@ -2,7 +2,7 @@
 
 fn="$1"
 export RAPIDSPEED=3100
-export CUTSPEED=300
+export CUTSPEED=600
 
 if [[ "$fn" == "" ]] ; then
   echo "provide file"
