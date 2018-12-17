@@ -13,4 +13,4 @@ LICENSE
 
 All files in this directory are licensed under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
-![cc0](/img/thin/cc-zero.svg)
+![cc0](/img/cc/thin/cc-zero.svg)
