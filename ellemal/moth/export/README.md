@@ -1,7 +1,7 @@
 Export Notes
 ===
 
-Using LaserWeb4, import the `moth_v0.1.6.3.png` image (or whatever the most current/desired image is).
+Using [LaserWeb4](https://github.com/LaserWeb/LaserWeb4), import the `moth_v0.1.6.3.png` image (or whatever the most current/desired image is).
 
 
 The parameters I'm using are:
