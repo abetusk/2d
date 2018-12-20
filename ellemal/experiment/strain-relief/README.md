@@ -8,6 +8,10 @@ by giving extra support.
 
 ![strain relief OpenSCAD](img/strain-relief-screenshot.png)
 
+![strain relief whole](img/strain-relief-whole.png)
+
+![strain relief closeup](img/strain-relief-closeup.png)
+
 LICENSE
 ---
 
