@@ -10,3 +10,13 @@ The basis for the lunar eclipse was taken from the 1881 book
 ["Les merveilles celestes, lectures du soir"](https://archive.org/details/lesmerveillesc00flam/page/328) by Camille Flammarion.
 
 ![lunar eclipse moth preview](export/moth_v0.1.6.3.png)
+
+License
+---
+
+Creative Commons Zero (CC0)
+
+![cc0](/img/cc/thin/cc-zero.svg)
+
+Please use this design, art and all source files as you with.
+Credit is appreciated but not necessary.
