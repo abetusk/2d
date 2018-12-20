@@ -9,4 +9,4 @@ image of a *Dryocampa imperialis* from the 1891 book
 The basis for the lunar eclipse was taken from the 1881 book
 ["Les merveilles celestes, lectures du soir"](https://archive.org/details/lesmerveillesc00flam/page/328) by Camille Flammarion.
 
-![lunar eclipse moth preview](img/moth_lunar_eclipse.png)
+![lunar eclipse moth preview](img/moth_v0.1.6.3.png)
