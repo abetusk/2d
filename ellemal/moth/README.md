@@ -18,5 +18,5 @@ License
 
 Creative Commons Zero ([CC0](https://creativecommons.org/share-your-work/public-domain/cc0/))
 
-Please use this design, art and all source files as you with.
+Please use this design, art and all source files as you wish.
 Credit is appreciated but not necessary.
