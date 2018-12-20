@@ -14,9 +14,9 @@ The basis for the lunar eclipse was taken from the 1881 book
 License
 ---
 
-Creative Commons Zero (CC0)
-
 ![cc0](/img/cc/thin/cc-zero.svg)
+
+Creative Commons Zero ([CC0](https://creativecommons.org/share-your-work/public-domain/cc0/))
 
 Please use this design, art and all source files as you with.
 Credit is appreciated but not necessary.
