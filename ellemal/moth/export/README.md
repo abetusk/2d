@@ -1,7 +1,7 @@
 Export Notes
 ===
 
-Using LaserWeb4, import the `moth_v0.1.6.1.png` image.
+Using LaserWeb4, import the `moth_v0.1.6.3.png` image (or whatever the most current/desired image is).
 
 
 The parameters I'm using are:
@@ -31,4 +31,12 @@ After each rescale and GCode generation, the image is saved into a file called
 
 Each needs to be 'cleaned' to take out extraneous content that LaserWeb4 generates
 and to reposition so the work starts at the `(10,10)` (`mm`) mark.
-The script `cleanup.sh` does this automatically.
+The script `cleanup.sh` does this automatically, altering the GCode file in place.
+
+Here is an example usage of the `cleanup.sh` script:
+
+```
+./cleanup.sh moth_s100.ngc
+```
+
+Note that the `cleanup.sh` script requires `grecode` and `dos2unix` to function properly.
