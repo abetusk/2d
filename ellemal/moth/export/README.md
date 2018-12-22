@@ -1,7 +1,7 @@
 Export Notes
 ===
 
-Using [LaserWeb4](https://github.com/LaserWeb/LaserWeb4), import the `moth_v0.1.6.3.png` image (or whatever the most current/desired image is).
+Using [LaserWeb4](https://github.com/LaserWeb/LaserWeb4), import the `moth_v0.1.6.4.png` image (or whatever the most current/desired image is).
 
 
 The parameters I'm using are:
@@ -21,10 +21,10 @@ Here are the parameters I used to rescale:
 
 | Destination patch size | Rescale (X) size |
 |---|---|
-| 100mm | 150mm |
-| 150mm | 220mm |
-| 210mm | 300mm |
-| 300mm | 430mm |
+| 100mm | 105mm |
+| ~150mm~ | ~220mm~ (don't have this in white) |
+| 210mm | 180mm |
+| 300mm | 430mm (?) |
 
 After each rescale and GCode generation, the image is saved into a file called
 `moth_s<size>.ngc`, where `<size>` is the destination patch size.
