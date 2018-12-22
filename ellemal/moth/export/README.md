@@ -23,8 +23,8 @@ Here are the parameters I used to rescale:
 |---|---|
 | 100mm | 150mm |
 | 150mm | 220mm |
-| 210mm | 320mm |
-| 300mm | 450mm |
+| 210mm | 300mm |
+| 300mm | 430mm |
 
 After each rescale and GCode generation, the image is saved into a file called
 `moth_s<size>.ngc`, where `<size>` is the destination patch size.

@@ -20,3 +20,10 @@ Creative Commons Zero ([CC0](https://creativecommons.org/share-your-work/public-
 
 Please use this design, art and all source files in this directory as you wish.
 Credit is appreciated but not necessary.
+
+References
+---
+
+* ['Among the moths and butterflies: a revised and enlarged edition of "insect lives ; or, Born in prison"' (pg. 122)](https://archive.org/details/amongmothsbutter00balluoft/page/122) by Julio P. Ballard (Julia Perkins).
+* ["Les merveilles celestes, lectures du soir" (pg. 328)](https://archive.org/details/lesmerveillesc00flam/page/328) by Camille Flammarion.
+* [Dryocampa imperialis](http://dpr.ncparks.gov/moths/view.php?MONA_number=7715.00)

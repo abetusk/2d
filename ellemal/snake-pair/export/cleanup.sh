@@ -12,7 +12,8 @@ fi
 
 dos2unix $ifn
 sed -i 's/;.*//' $ifn
-sed -i 's/G1 F\(.*\)/G1 F\1\nG0 F5000/' $ifn
+sed -i 's/G0 *F[0-9]*//' $ifn
+sed -i 's/G1 F\(.*\)/G1 F\1\nG0 F8000/' $ifn
 
 mx=`ngc_bounds $ifn | grep min_x | cut -f2 -d' '`
 my=`ngc_bounds $ifn | grep min_y | cut -f2 -d' '`
