@@ -20,6 +20,7 @@ Sayings
 * witch bitch
 * live fast, live forever
 * witch cat
+* couture baisse
 
 Sizes
 ---
