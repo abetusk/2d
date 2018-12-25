@@ -30,7 +30,7 @@ Here are the parameters I used to rescale:
 | Destination patch size | Rescale (X) size |
 |---|---|
 | 100mm | 115mm |
-| 140mm | 140mm |
+| 150mm | 140mm |
 | 210mm | 210mm |
 | 300mm | 430mm (?) |
 
