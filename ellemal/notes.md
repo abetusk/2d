@@ -12,15 +12,38 @@ Themes
 Sayings
 ---
 
-* Please don't stop loving me (el wire, block font)
+* please don't stop loving me (el wire, block font)
 * shit (el wire)
-* There's a voice in my head that says I'm better off dead
-* Too late to die young
+* there's a voice in my head that says I'm better off dead
+* too late to die young
 * as above, so below
-* witch bitch
 * live fast, live forever
+* bee witch
 * witch cat
 * couture baisse
+* nothing you treasure will last forever
+* everything you love will one day die
+* living in the future
+* I can't sleep
+* let's roll
+* now comes the mystery
+* the comedy is finished
+* tragically mortal
+* back in no time
+* I love you all
+* papa, I hate you
+* more light
+* nothing more
+* order for the spider is chaos for the fly
+* we can love and forgive our heretics
+* ruled by reason
+* hello friend
+* longing for night
+* citizen dark
+* night show
+* midnight show
+* kiss the night
+
 
 Sizes
 ---
@@ -101,3 +124,6 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 
 * [rawpixel public domain art](https://www.rawpixel.com/category/53/public-domain)
 * [Public Domain Review](https://publicdomainreview.org)
+
+* [Dennison's bogie book](https://archive.org/details/dennisonsbogiebo00denn/page/12)
+* [Spectropia ; or, Surprising spectral illusions. Showing ghosts everywhere, and of any colour by Brown, J. H](https://archive.org/details/39002086348662.med.yale.edu/page/n17)
