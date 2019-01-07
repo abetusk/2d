@@ -13,4 +13,4 @@ Some of the art has been edited to taste.
 License
 ---
 
-Unless otherwise stated explicitely, all art and supporting files are licensed [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+Unless otherwise stated explicitly, all art and supporting files are licensed [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
