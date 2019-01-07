@@ -1,4 +1,4 @@
-Electroluminescent Jacket
+Cyberpunk Jacket
 ===
 
 Introduction
@@ -8,6 +8,7 @@ In order to try and make aesthetically pleasing high tech
 fashion more available, we came up with the idea of
 creating electroluminescent (EL) patches that can be put
 on clothing.
+The EL patch glows in the dark and gives a very retro "cyberpunk" feel to jacket.
 Though high tech fashion is becoming more mainstream,
 there's a lack of stylish clothing that's reasonably
 priced.
@@ -30,9 +31,16 @@ software and machines you have.
 The basic idea is to laser cut some art, glue it
 to an EL panel and then affix it to a jacket with velcro.
 The wires are poked through the back of the jacket and wired
-through the lining to access the power source placed in
-a battery pack in the jacket pocket.
-The patches are semi flexible and act like standard art patches.
+through the lining to access the power source
+in the jacket pocket.
+The patches are semi flexible and act like standard jacket patches.
+
+The patches on the jacket are a bit fragile but can withstand "everyday"
+usage.
+Protetecting the panels from breakage is an ongoing experiment
+and the current methods presented below, such as strain relief, are
+our current attempts at making the panels more robust against everyday
+use.
 
 Even though the idea is pretty simple the results look striking.
 
@@ -40,16 +48,22 @@ Step 0 : Materials and Tools
 ---
 
 * Access to a laser cutter (for cutting the cloth patches)
-* cloth (heavy rayon)
-* EL panels
+* Cloth (heavy duty nylon) ([Amazon link](https://www.amazon.com/gp/product/B002C6DAXE/))
+* 3 EL panels, 1 A4 size and two A6 size
 * inverter plus batteries and battery pack
 * Glue (gorilla)
 * Jacket
 * Velcro
-* Extension wires (for el panel)
-* Delrin or Acetal (for strain relief)
-* M2 bolts and nuts
 * Scissors
+* EL Extension wires and splitters
+* Soldering Iron
+* (optional) 'helping hands'
+* Solder
+* (optional) solder flux
+* (optional) Delrin or Acetal (for strain relief)
+* (optional) M2 bolts and nuts, at least 8mm in length (longer is ok)
+* (optional) M2 screwdriver
+* (optional) loctite
 
 Note that you can use any material for the cloth but not all material
 is safe to laser cut.
@@ -61,20 +75,27 @@ gas if laser cut and should be avoided.
 Cotton, polyester, nylon, acetal and Delrin are all materials that are able to be cut safely on
 the laser cutter.
 
+The cloth above is heavy duty Nylon.
+Though Nylon melts in the laser cutter, it's still able to retain a lot of the detail
+of the source image.
+Since Nylon melts, this helps a bit as it cauterizes the edge of the fabric, where it
+cuts, to make a nice seal.
+
 ### Software
 
 The software is optimized for the workflow we developed but other software
 can be used depending on what you're familiar with or what kind of laser cutter
 you have access to.
 
-* Inkscape
-* Gimp
+* [Inkscape](https://inkscape.org/)
+* [Gimp](https://www.gimp.org/)
 * [LaserWeb4](https://github.com/LaserWeb/LaserWeb4-Binaries/)
 
 Inkscape is used to create the vector art for the lettering.
 Gimp is used to create the art patch.
 LaserWeb4 is used to convert the art patch to GCode to be sent to the laser cutter.
-For laser cutters that can take files directly, like the Epilog Zing, Laser Web 4
+
+For laser cutters that can take files directly, such as the Epilog Zing, Laser Web 4
 isn't needed as the Epilog drivers convert the art file directly.
 
 Step 1 : Design Art and Lettering
