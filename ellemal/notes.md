@@ -127,3 +127,13 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 
 * [Dennison's bogie book](https://archive.org/details/dennisonsbogiebo00denn/page/12)
 * [Spectropia ; or, Surprising spectral illusions. Showing ghosts everywhere, and of any colour by Brown, J. H](https://archive.org/details/39002086348662.med.yale.edu/page/n17)
+
+* [Kyosai Sketchbook (Kyosai manga)](https://www.metmuseum.org/art/collection/search/78667?searchField=All&amp;sortBy=relevance&amp;who=Kawanabe+Ky%C5%8Dsai%24Kawanabe+Ky%C5%8Dsai&amp;ft=*&amp;offset=20&amp;rpp=20&amp;pos=34)
+* [Kyosai's Treatise on Painting](https://www.metmuseum.org/art/collection/search/78666?searchField=All&amp;sortBy=relevance&amp;who=Kawanabe+Ky%C5%8Dsai%24Kawanabe+Ky%C5%8Dsai&amp;ft=*&amp;offset=0&amp;rpp=20&amp;pos=20)
+
+* [Anton Sedar - Nouveau style flourishes](https://commons.wikimedia.org/wiki/Category:Anton_Seder)
+* [Anton Sedar - Nouveau Snake and flower](https://upload.wikimedia.org/wikipedia/commons/2/2d/Anton_Seder_Roses_Snake.jpg)
+
+* [Anton Sedar - Goat and flower](http://chaosophia218.tumblr.com/post/170148597282/anton-seder-die-pflanze-in-kunst-und-gewerbe)
+
+* Deer [link 0](https://archive.org/details/followingdeer00long/page/n199), [link 1](https://archive.org/details/brooklynmuseum-o1429-deer)
