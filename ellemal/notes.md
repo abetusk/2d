@@ -137,3 +137,5 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Anton Sedar - Goat and flower](http://chaosophia218.tumblr.com/post/170148597282/anton-seder-die-pflanze-in-kunst-und-gewerbe)
 
 * Deer [link 0](https://archive.org/details/followingdeer00long/page/n199), [link 1](https://archive.org/details/brooklynmuseum-o1429-deer)
+
+* [Sparkfun EL patches](https://learn.sparkfun.com/tutorials/pokmon-go-patches-with-el-panels)
