@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-115.71429"
-     inkscape:cy="560"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-357.81499"
+     inkscape:cy="564.27325"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -169,30 +169,30 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.67482758px;line-height:125%;font-family:Helsinki;-inkscape-font-specification:'Helsinki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1;stroke:none;stroke-width:0.43555003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="16.369629"
-       y="33.334286"
-       id="text855"><tspan
-         sodipodi:role="line"
-         id="tspan853"
-         x="16.369629"
-         y="33.334286"
-         style="fill:#282828;fill-opacity:1;stroke-width:0.43555003px">Avacado lot</tspan><tspan
-         sodipodi:role="line"
-         x="16.369629"
-         y="66.677826"
-         style="fill:#282828;fill-opacity:1;stroke-width:0.43555003px"
-         id="tspan857">of feelings</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.49497223px;line-height:125%;font-family:Helsinki;-inkscape-font-specification:'Helsinki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1;stroke:none;stroke-width:0.43261334px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="82.122803"
-       y="281.53958"
+       x="82.657341"
+       y="279.40143"
        id="text861"><tspan
          sodipodi:role="line"
          id="tspan859"
-         x="82.122803"
-         y="281.53958"
+         x="82.657341"
+         y="279.40143"
          style="fill:#282828;fill-opacity:1;stroke-width:0.43261334px">for you</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.20507812px;line-height:125%;font-family:Helsinki;-inkscape-font-specification:'Helsinki, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#282828;fill-opacity:1;stroke:none;stroke-width:0.46053615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="7.9931855"
+       y="39.018799"
+       id="text837"><tspan
+         sodipodi:role="line"
+         id="tspan835"
+         x="7.9931855"
+         y="39.018799"
+         style="stroke-width:0.46053615px;fill:#282828;fill-opacity:1;">Avocado lot</tspan><tspan
+         sodipodi:role="line"
+         x="7.9931855"
+         y="74.275146"
+         style="stroke-width:0.46053615px;fill:#282828;fill-opacity:1;"
+         id="tspan839">of feelings</tspan></text>
   </g>
 </svg>
