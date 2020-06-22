@@ -10,3 +10,5 @@ Inspired by a character in Kate Tsang's "So You've Grown Attached" [short film](
 All artwork in this directory is under a CC-BY-SA license.
 
 License: CC-BY-SA
+
+![CC-BY-SA](/img/cc/thin/cc-by-sa-80x15.png)
