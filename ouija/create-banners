@@ -1,0 +1,14 @@
+#!/bin/bash
+
+fsz=200
+
+convert -font Rye-Regular -pointsize $fsz label:'ABCDEFGHIJKLM' -virtual-pixel Background -background SkyBlue -distort Arc 60 rye_arc_font_a-to-m.png
+convert -font Rye-Regular -pointsize $fsz label:'NOPQRSTUVWXYZ' -virtual-pixel Background -background SkyBlue -distort Arc 60 rye_arc_font_n-to-z.png
+
+convert -font Rye-Regular -pointsize $fsz label:'YES' -virtual-pixel Background -background SkyBlue rye_yes.png
+convert -font Rye-Regular -pointsize $fsz label:'NO' -virtual-pixel Background -background SkyBlue rye_no.png
+
+convert -font Rye-Regular -pointsize $fsz label:'1234567890' -virtual-pixel Background -background SkyBlue rye_1-0.png
+
+convert -font Rye-Regular -pointsize $fsz label:'HELLO' -virtual-pixel Background -background SkyBlue rye_hello.png
+convert -font Rye-Regular -pointsize $fsz label:'GOODBYE' -virtual-pixel Background -background SkyBlue rye_goodbye.png
