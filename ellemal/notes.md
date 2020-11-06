@@ -139,3 +139,12 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * Deer [link 0](https://archive.org/details/followingdeer00long/page/n199), [link 1](https://archive.org/details/brooklynmuseum-o1429-deer)
 
 * [Sparkfun EL patches](https://learn.sparkfun.com/tutorials/pokmon-go-patches-with-el-panels)
+
+* [Guilielmi Zincgrefii - Emblematum ethico-politicorum centuria](https://archive.org/details/emblematumethico00zinc/page/n216/mode/thumb)
+* [La Ilustracion artistica](https://archive.org/details/gri_33125006205567/page/n229/mode/2up)
+* [Dangerous Liaisons](https://gallica.bnf.fr/ark:/12148/bpt6k1524785p/f14.item)
+* [The poems of Edgar Allan Poe](https://archive.org/details/poemsillustrated00poeerich/page/9/mode/2up)
+* [Royal Palm Nurseries](https://archive.org/details/CAT31286900/page/52/mode/2up)
+* [Illustrated dsecriptive price-list of magical apparatus and illusions](https://archive.org/details/illustrateddescr00maur/page/8/mode/thumb)
+* [Legendes Bretonnes](https://archive.org/details/legendesbret00becq/page/n48/mode/2up) ([moon](https://archive.org/details/legendesbret00becq/page/n60/mode/2up))
+* [Arabische und alt-italienische Bau-Verzierungen](https://archive.org/details/gri_33125012883480/page/n227/mode/thumb)
