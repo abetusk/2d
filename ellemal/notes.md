@@ -148,3 +148,11 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Illustrated dsecriptive price-list of magical apparatus and illusions](https://archive.org/details/illustrateddescr00maur/page/8/mode/thumb)
 * [Legendes Bretonnes](https://archive.org/details/legendesbret00becq/page/n48/mode/2up) ([moon](https://archive.org/details/legendesbret00becq/page/n60/mode/2up))
 * [Arabische und alt-italienische Bau-Verzierungen](https://archive.org/details/gri_33125012883480/page/n227/mode/thumb)
+
+* [L'art de tirer les cartes](https://archive.org/details/b28750640/page/121/mode/thumb)
+
+* [The three bears](https://archive.org/details/the-three-bears-walter-crane-1873/page/n1/mode/2up)
+* [Walter Crane's picture books](https://archive.org/details/Crane2/page/n66/mode/thumb)
+* [Princess Belle-Etoile](https://archive.org/details/princessbelleeto00cran2/page/n6/mode/2up)
+* [Walter Crane's picture books](https://archive.org/details/Crane1/page/n99/mode/2up)
+* [A masque of days](https://archive.org/details/masqueofdaysfrom00lambrich/page/36/mode/thumb)
