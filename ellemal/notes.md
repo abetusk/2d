@@ -156,3 +156,7 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Princess Belle-Etoile](https://archive.org/details/princessbelleeto00cran2/page/n6/mode/2up)
 * [Walter Crane's picture books](https://archive.org/details/Crane1/page/n99/mode/2up)
 * [A masque of days](https://archive.org/details/masqueofdaysfrom00lambrich/page/36/mode/thumb)
+
+* [Wallpaper book](https://archive.org/details/StyleTrendWallpapers0001/page/n27/mode/thumb)
+* [Fashions of Today Wallpaper patterns](https://archive.org/details/FashionsOfToday/page/n36/mode/thumb)
+* [Tombstones and Monuments](https://archive.org/details/SearsRoebuckCo.TombstonesMonuments1906/page/n18/mode/thumb)
