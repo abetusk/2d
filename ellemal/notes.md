@@ -117,7 +117,7 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Zauberlinda, the wise witch](https://archive.org/details/zauberlindawisew00clap/page/50)
 * [A day's pleasure; or, The half-holiday adventures of some little people](https://archive.org/details/dayspleasureorha00geikiala/page/57)
 * [The serpent with eight heads by Chamberlain, Basil Hall](https://archive.org/details/serpentwitheight00chamiala/page/n11)
-* [The silly jelly-fish by Chamberlain, Basil Hall](https://archive.org/details/sillyjellyfish00chamiala/page/n3)c
+* [The silly jelly-fish by Chamberlain, Basil Hall](https://archive.org/details/sillyjellyfish00chamiala/page/n3)
 * [Bully Bull Frog and his home in Rainbow Valley by Fry, Elizabeth Stafford](https://archive.org/details/bullybullfroghis00frye/page/n11)
 * [Alice's Adventures In Wonderland by Carroll, Lewis](https://archive.org/details/AlicesAdventuresInWonderland_201303/page/n18)
 * [McGuffey's eclectic primer by McGuffey, William Holmes](https://archive.org/details/mcguffeyseclecti00mcgu/page/26)
@@ -160,3 +160,12 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Wallpaper book](https://archive.org/details/StyleTrendWallpapers0001/page/n27/mode/thumb)
 * [Fashions of Today Wallpaper patterns](https://archive.org/details/FashionsOfToday/page/n36/mode/thumb)
 * [Tombstones and Monuments](https://archive.org/details/SearsRoebuckCo.TombstonesMonuments1906/page/n18/mode/thumb)
+
+* [Le livre de demain](https://archive.org/details/lelivrededemain00roch/page/n180/mode/thumb)
+* [French Textiles](https://archive.org/details/frenchtextiles00unse/page/n180/mode/thumb)
+* [Imprime en tous genres, no. 2](https://archive.org/details/MAB.31962000742902Images/page/n42/mode/thumb)
+* [Gaze, 1890-1901](https://archive.org/details/gazes1890190100elem/page/n90/mode/thumb)
+* [Nouvelles collections du Musée des arts décoratifs. Série 9. Dessins de J.B. Huet pour la manufacture de Jouy (1745 à 1811)](https://archive.org/details/gri_33125001109517/page/n54/mode/thumb)
+* [Passementeries](https://archive.org/details/MAB.31962000742977Images/mode/thumb)
+* [sample books from archive.org](https://archive.org/search.php?query=subject%3A%22Sample+books%22&page=2)
+* [Kunstformen der Natur, Ernst Haeckel](https://archive.org/details/kunstformenderna00haec_512/page/n24/mode/thumb)
