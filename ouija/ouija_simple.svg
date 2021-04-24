@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="964.28237"
-     inkscape:cy="1366.1315"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="302.35394"
+     inkscape:cy="730.45492"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -270,21 +270,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.15409301px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 21.733631,106.1875 v 40"
-       id="path858"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.15409301px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 30.401909,66.1875 h -8.668278 v 40 l 8.668278,0"
-       id="path858-7"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.15409301px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 21.733631,26.187499 V 66.1875"
-       id="path858-7-1"
-       inkscape:connector-curvature="0" />
-    <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.03609085;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        d="m 47.91503,117.19087 c 1.564466,-1.8957 3.218171,-3.71501 4.954681,-5.45152 13.892105,-13.892091 33.083836,-22.484536 54.282449,-22.484536 21.19861,0 40.39034,8.592435 54.28245,22.484526 1.73651,1.73651 3.39022,3.55583 4.95468,5.45152"
        id="path856-9"
@@ -294,8 +279,7 @@
        id="g932"
        transform="matrix(0.84974877,0,0,0.84974877,17.41416,22.176282)">
       <g
-         aria-label="GOOD
-"
+         aria-label="GOOD "
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="text915">
         <path
@@ -486,21 +470,5 @@
        cx="49.871136"
        cy="43.522861"
        r="11.561573" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.34240723px;line-height:125%;font-family:Rye;-inkscape-font-specification:'Rye, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="104.20839"
-       y="190.92073"
-       id="text1115"><tspan
-         sodipodi:role="line"
-         id="tspan1113"
-         x="104.20839"
-         y="190.92073"
-         style="stroke-width:0.26458332px">CC0</tspan><tspan
-         sodipodi:role="line"
-         x="104.20839"
-         y="207.59874"
-         style="stroke-width:0.26458332px"
-         id="tspan1117">(PUBLIC DOMAIN)</tspan></text>
   </g>
 </svg>
