@@ -1,0 +1,16 @@
+#!/bin/bash
+
+xmltojson < ../planchette_simple.svg | jq -r '.svg.g.path[].d' > planchette.path
+
+svgpath2gp --segment 1 --combine --error 0.01 planchette.path > planchette.gp
+
+gp2ngc --preset laser planchette.gp planchette_o.ngc
+
+mx=`ngc_bounds planchette_o.ngc | grep min_x | cut -f2 -d' ' | tr -d ','`
+my=`ngc_bounds planchette_o.ngc | grep min_y | cut -f2 -d' ' | tr -d ','`
+
+dx=`echo "-1.0*$mx + 15" | bc -l`
+dy=`echo "-1.0*$my + 15" | bc -l`
+
+grecode -shift $dx $dy planchette_o.ngc > planchette.ngc
+
