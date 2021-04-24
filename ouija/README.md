@@ -29,7 +29,9 @@ A simple design for an Ouija board.
 
 Font is a slightly modified [Rye](https://fonts.google.com/specimen/Rye#license).
 
-Eye by Mike Rowe from the Noun Project [noun project](https://thenounproject.com/term/eye/19791/).
+Eye by Mike Rowe from the Noun Project [noun project](https://thenounproject.com/term/eye/19791/) (CC-BY).
+
+Planchette outline taken from [phana007](https://www.thingiverse.com/thing:2732024) (CC-BY).
 
 License
 ---
