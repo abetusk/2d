@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1603"
+   inkscape:version="0.92.5 (0.92.5+68)"
+   sodipodi:docname="ouija_ouline.svg">
+  <defs
+     id="defs1597" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-115.71429"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1483"
+     inkscape:window-height="856"
+     inkscape:window-x="437"
+     inkscape:window-y="175"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1600">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.31218195;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m -56.187,55.527752 h 9.390246 18.780487 18.7804902 18.780488 18.7804898 18.780495 18.78049 18.78049 18.780474 18.78049 18.78051 18.78047 18.7805 18.7805 18.78046 9.39028 l 9.39022,7.485244 v 7.485244 14.970488 14.970482 14.97049 14.97049 14.97049 14.97049 14.97049 14.97048 14.97049 14.9705 14.97047 14.97049 14.97051 14.97046 7.48527 l -9.39022,7.48525 h -9.39028 -9.39024 -9.39022 -9.39026 -9.39024 -9.39024 -9.39026 -9.39023 -9.39024 -9.39026 -9.39025 -9.39023 -9.39026 -9.390234 -9.39024 -9.39027 -9.39022 -9.39026 -9.39023 -9.39026 -9.390235 -9.39024 -9.3902498 -9.39024003 -9.39024797 -9.3902452 -9.390245 -9.390242 -9.390245 -9.390246 l -9.390243,-7.48525 V 280.08506 265.1146 250.14409 235.1736 220.20313 205.23263 190.26214 175.29166 160.32117 145.35068 130.38019 115.4097 100.43921 85.468728 70.49824 63.012996 Z"
+       id="rect817"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
