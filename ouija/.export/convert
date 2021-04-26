@@ -1,5 +1,8 @@
 #!/bin/bash
 
+## planchette full
+##
+
 xmltojson < ../planchette_simple.svg | jq -r '.svg.g.path[].d' > planchette.path
 
 svgpath2gp --segment 1 --combine --error 0.01 planchette.path > planchette.gp
@@ -12,7 +15,86 @@ my=`ngc_bounds planchette_o.ngc | grep min_y | cut -f2 -d' ' | tr -d ','`
 dx=`echo "-1.0*$mx + 15" | bc -l`
 dy=`echo "-1.0*$my + 15" | bc -l`
 
-grecode -shift $dx $dy planchette_o.ngc > planchette.ngc
+grecode -shift $dx $dy planchette_o.ngc | sed 's/F3000/F400/g' > planchette.ngc
+
+###
+## planchette outline
+##
+
+
+xmltojson < ../planchette_outline.svg | jq -r '.svg.g.path[].d' > planchette_outline.path
+
+svgpath2gp --segment 1 --combine --error 0.01 planchette_outline.path > planchette_outline.gp
+
+gp2ngc --preset laser planchette_outline.gp planchette_outline_o.ngc
+
+mx=`ngc_bounds planchette_outline_o.ngc | grep min_x | cut -f2 -d' ' | tr -d ','`
+my=`ngc_bounds planchette_outline_o.ngc | grep min_y | cut -f2 -d' ' | tr -d ','`
+
+dx=`echo "-1.0*$mx + 15" | bc -l`
+dy=`echo "-1.0*$my + 15" | bc -l`
+
+grecode -shift $dx $dy planchette_outline_o.ngc | sed 's/F3000/F400/g' > planchette_outline.ngc
+
+###
+## planchette innards
+##
+
+
+xmltojson < ../planchette_innards.svg | jq -r '.svg.g.path[].d' > planchette_innards.path
+
+svgpath2gp --segment 1 --combine --error 0.01 planchette_innards.path | \
+  clipcli -s /dev/stdin -F -x 10000 -X .0001 -R 0.4 -T > planchette_innards.gp
+
+gp2ngc --preset laser planchette_innards.gp planchette_innards_o.ngc
+
+mx=`ngc_bounds planchette_innards_o.ngc | grep min_x | cut -f2 -d' ' | tr -d ','`
+my=`ngc_bounds planchette_innards_o.ngc | grep min_y | cut -f2 -d' ' | tr -d ','`
+
+dx=`echo "-1.0*$mx + 15" | bc -l`
+dy=`echo "-1.0*$my + 15" | bc -l`
+
+grecode -shift $dx $dy planchette_innards_o.ngc | sed 's/F3000/F400/g' > planchette_innards.ngc
+
+###
+###
+###
+
+
+
+xmltojson < ../ouija_innards.svg | jq -r '.svg.g.path[].d' > ouija_innards.path
+
+svgpath2gp --segment 1 --combine --error 0.01 ouija_innards.path | \
+  clipcli -s /dev/stdin -F -x 10000 -X .0001 -R 0.4 -T > ouija_innards.gp
+
+gp2ngc --preset laser ouija_innards.gp ouija_innards_o.ngc
+
+mx=`ngc_bounds ouija_innards_o.ngc | grep min_x | cut -f2 -d' ' | tr -d ','`
+my=`ngc_bounds ouija_innards_o.ngc | grep min_y | cut -f2 -d' ' | tr -d ','`
+
+dx=`echo "-1.0*$mx + 15" | bc -l`
+dy=`echo "-1.0*$my + 15" | bc -l`
+
+grecode -shift $dx $dy ouija_innards_o.ngc | sed 's/F3000/F400/g' > ouija_innards.ngc
+
+
+
+###
+
+xmltojson < ../ouija_outline.svg | jq -r '.svg.g.path.d' > ouija_outline.path
+
+svgpath2gp --segment 1 --combine --error 0.01 ouija_outline.path > ouija_outline.gp
+
+gp2ngc --preset laser ouija_outline.gp ouija_outline_o.ngc
+
+mx=`ngc_bounds ouija_outline_o.ngc | grep min_x | cut -f2 -d' ' | tr -d ','`
+my=`ngc_bounds ouija_outline_o.ngc | grep min_y | cut -f2 -d' ' | tr -d ','`
+
+dx=`echo "-1.0*$mx + 15" | bc -l`
+dy=`echo "-1.0*$my + 15" | bc -l`
+
+grecode -shift $dx $dy ouija_outline_o.ngc | sed 's/F3000/F400/g' > ouija_outline.ngc
+
 
 
 ###
@@ -29,5 +111,6 @@ my=`ngc_bounds ouija_o.ngc | grep min_y | cut -f2 -d' ' | tr -d ','`
 dx=`echo "-1.0*$mx + 15" | bc -l`
 dy=`echo "-1.0*$my + 15" | bc -l`
 
-grecode -shift $dx $dy ouija_o.ngc > ouija.ngc
+grecode -shift $dx $dy ouija_o.ngc | sed 's/F3000/F400/g' > ouija.ngc
+
 
