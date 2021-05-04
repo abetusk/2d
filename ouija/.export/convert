@@ -3,9 +3,13 @@
 ## planchette full
 ##
 
-xmltojson < ../planchette_simple.svg | jq -r '.svg.g.path[].d' > planchette.path
+#xmltojson < ../planchette_simple.svg | jq -r '.svg.g.path[].d' > planchette.path
+xmltojson < ../planchette_tmp.svg | jq -r '.svg.g.path[].d' > planchette.path
 
-svgpath2gp --segment 1 --combine --error 0.01 planchette.path > planchette.gp
+svgpath2gp --segment 1 --combine --error 0.01 planchette.path | \
+  clipcli -S evenodd -O 1 -T -s /dev/stdin -F -x 100000 -X 0.00001 > planchette.gp
+
+#svgpath2gp --segment 1 --combine --error 0.01 planchette.path > planchette.gp
 
 gp2ngc --preset laser planchette.gp planchette_o.ngc
 
@@ -24,7 +28,8 @@ grecode -shift $dx $dy planchette_o.ngc | sed 's/F3000/F400/g' > planchette.ngc
 
 xmltojson < ../planchette_outline.svg | jq -r '.svg.g.path[].d' > planchette_outline.path
 
-svgpath2gp --segment 1 --combine --error 0.01 planchette_outline.path > planchette_outline.gp
+svgpath2gp --segment 1 --combine --error 0.01 planchette_outline.path | \
+  clipcli -S evenodd -s /dev/stdin -F -x 10000 -X 0.0001 -T -O 1 > planchette_outline.gp
 
 gp2ngc --preset laser planchette_outline.gp planchette_outline_o.ngc
 
@@ -44,7 +49,9 @@ grecode -shift $dx $dy planchette_outline_o.ngc | sed 's/F3000/F400/g' > planche
 xmltojson < ../planchette_innards.svg | jq -r '.svg.g.path[].d' > planchette_innards.path
 
 svgpath2gp --segment 1 --combine --error 0.01 planchette_innards.path | \
-  clipcli -s /dev/stdin -F -x 10000 -X .0001 -R 0.4 -T > planchette_innards.gp
+  clipcli -S evenodd -O 1 -s /dev/stdin -F -x 10000 -X .0001 -R 0.1 -T > planchette_innards.gp
+
+#svgpath2gp --segment 1 --combine --error 0.01 planchette_innards.path > planchette_innards.gp
 
 gp2ngc --preset laser planchette_innards.gp planchette_innards_o.ngc
 
@@ -65,7 +72,7 @@ grecode -shift $dx $dy planchette_innards_o.ngc | sed 's/F3000/F400/g' > planche
 xmltojson < ../ouija_innards.svg | jq -r '.svg.g.path[].d' > ouija_innards.path
 
 svgpath2gp --segment 1 --combine --error 0.01 ouija_innards.path | \
-  clipcli -s /dev/stdin -F -x 10000 -X .0001 -R 0.4 -T > ouija_innards.gp
+  clipcli -S evenodd -O 1 -s /dev/stdin -F -x 10000 -X .0001 -R 0.2 -T > ouija_innards.gp
 
 gp2ngc --preset laser ouija_innards.gp ouija_innards_o.ngc
 
@@ -83,7 +90,8 @@ grecode -shift $dx $dy ouija_innards_o.ngc | sed 's/F3000/F400/g' > ouija_innard
 
 xmltojson < ../ouija_outline.svg | jq -r '.svg.g.path.d' > ouija_outline.path
 
-svgpath2gp --segment 1 --combine --error 0.01 ouija_outline.path > ouija_outline.gp
+svgpath2gp --segment 1 --combine --error 0.01 ouija_outline.path | \
+  clipcli -S evenodd -O 1 -s /dev/stdin -F -x 10000 -X 0.0001 -T > ouija_outline.gp
 
 gp2ngc --preset laser ouija_outline.gp ouija_outline_o.ngc
 
@@ -101,7 +109,10 @@ grecode -shift $dx $dy ouija_outline_o.ngc | sed 's/F3000/F400/g' > ouija_outlin
 
 xmltojson < ../ouija_simple.svg | jq -r '.svg.g.path[].d' > ouija.path
 
-svgpath2gp --segment 1 --combine --error 0.01 ouija.path > ouija.gp
+svgpath2gp --segment 1 --combine --error 0.01 ouija.path | \
+  clipcli -S evenodd -O 1 -s /dev/stdin -F -x 10000 -X 0.0001 -T > ouija.gp
+
+#svgpath2gp --segment 1 --combine --error 0.01 ouija.path > ouija.gp
 
 gp2ngc --preset laser ouija.gp ouija_o.ngc
 
