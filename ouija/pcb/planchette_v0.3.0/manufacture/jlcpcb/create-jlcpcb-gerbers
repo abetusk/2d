@@ -1,0 +1,83 @@
+#!/bin/bash
+
+bdir="../../gerber"
+#bdir=".tmp/project/gerber"
+
+tdir=`mktemp -d`
+
+for x in `ls $bdir` ; do
+  echo "## $x"
+
+  if [[ "$x" =~ \.gbl$ ]] ; then
+    fn=`basename $x .gbl`
+    cp "$bdir"/"$x" $tdir/$fn.GBL
+
+    echo ">> $tdir/$fn.GBL"
+  elif [[ "$x" =~ \.gbo$ ]] ; then
+    fn=`basename $x .gbo`
+    cp "$bdir"/"$x" $tdir/$fn.GBO
+
+    echo ">> $tdir/$fn.GBO"
+  elif [[ "$x" =~ \.gbs$ ]] ; then
+    fn=`basename $x .gbs`
+    cp "$bdir"/"$x" $tdir/$fn.GBS
+
+    echo ">> $tdir/$fn.GBS"
+  elif [[ "$x" =~ \.drl$ ]] ; then
+    fn=`basename $x .gbs`
+    cp "$bdir"/"$x" $tdir/$fn.DRL
+
+    echo ">> $tdir/$fn.DRL"
+  elif [[ "$x" =~ \.drl$ ]] ; then
+    fn=`basename $x .gbs`
+    cp "$bdir"/"$x" $tdir/$fn.DRL
+
+    echo ">> $tdir/$fn.DRL"
+  elif [[ "$x" =~ \.gtu$ ]] ; then
+    fn=`basename $x .gtu`
+    cp "$bdir"/"$x" $tdir/$fn.GTO
+
+    echo ">> $tdir/$fn.GTO"
+  elif [[ "$x" =~ \.gtu$ ]] ; then
+    fn=`basename $x .gtu`
+    cp "$bdir"/"$x" $tdir/$fn.GTO
+
+    echo ">> $tdir/$fn.GTO"
+  elif [[ "$x" =~ \.gbu$ ]] ; then
+    fn=`basename $x .gbu`
+    cp "$bdir"/"$x" $tdir/$fn.GBU
+
+    echo ">> $tdir/$fn.GBU"
+  elif [[ "$x" =~ \.gbr$ ]] ; then
+    fn=`basename $x .gbr`
+    cp "$bdir"/"$x" $tdir/$fn.GBR
+
+    echo ">> $tdir/$fn.GBR"
+  elif [[ "$x" =~ \.gtl$ ]] ; then
+    fn=`basename $x .gtl`
+    cp "$bdir"/"$x" $tdir/$fn.GTL
+
+    echo ">> $tdir/$fn.GTL"
+  elif [[ "$x" =~ \.gto$ ]] ; then
+    fn=`basename $x .gto`
+    cp "$bdir"/"$x" $tdir/$fn.GTO
+
+    echo ">> $tdir/$fn.GTO"
+  elif [[ "$x" =~ \.gts$ ]] ; then
+    fn=`basename $x .gts`
+    cp "$bdir"/"$x" $tdir/$fn.GTS
+
+    echo ">> $tdir/$fn.GTS"
+  else 
+    echo "skipping"
+  fi
+done
+
+pushd $tdir
+zip -r gerbers.zip .
+popd
+
+mv $tdir/gerbers.zip .
+
+rm -rf $tdir
+

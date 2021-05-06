@@ -1,0 +1,21 @@
+#!/bin/bash
+
+
+echo 'Comment,Designator,Footprint,LCSC Part # (optional)'
+
+jq -c '.element[]' ../../json/board.json  | \
+  grep 'meowWS2812B' | \
+  jq -c -r '.text[0].text' | \
+  tr '\n' ',' | \
+  sed 's/,$//' | \
+  sed 's/^/ws2812b,"/' | \
+  sed 's/$/",LED-4_5050,\n/' 
+
+jq -c '.element[]' ../../json/board.json  | \
+  grep 'C1206' | \
+  jq -c -r '.text[0].text' | \
+  tr '\n' ',' | \
+  sed 's/,$//' | \
+  sed 's/^/100nF,"/' | \
+  sed 's/$/",1206_C,\n/' 
+

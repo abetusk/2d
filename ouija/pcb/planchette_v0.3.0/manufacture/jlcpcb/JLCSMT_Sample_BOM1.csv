@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC Part #（optional）
+100uF,C1,CASE-B_3528,C16133  
+100nF,"C2, C9, C10 
+",0603_C,C14663
+10uF,"C3-5 
+",1206_C,C13585
+15KΩ,"R5, R6",0603_R,C22809

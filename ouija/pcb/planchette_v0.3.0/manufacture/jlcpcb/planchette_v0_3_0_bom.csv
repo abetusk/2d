@@ -1,0 +1,3 @@
+Comment,Designator,Footprint,LCSC Part # (optional)
+ws2812b,"d_lmeye,d_moon,d_rstar,d_rrtray,d_rmeye,d_llbray,d_ceye,d_rbeye,d_cray,d_rtray,d_ltray,d_lltray,d_lstar,d_rrbray,d_rbray,d_lbray,d_rteye,d_lbeye,d_lteye",LED-4_5050,
+100nF,"c_moon,c_lstar,c_lteye,c_rteye,c_rstar,c_lmeye,c_ceye,c_rmeye,c_lltray,c_lbeye,c_rbeye,c_rrtray,c_rrbray,c_rbray,c_rtray,c_cray,c_ltray,c_lbray,c_llbray",1206_C,

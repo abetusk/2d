@@ -1,0 +1,15 @@
+#!/bin/bash
+
+dx=0
+dy=0
+fy=-1
+
+echo 'Designator,Mid X,Mid Y,Layer,Rotation'
+
+jq -c '.element[]' ../../json/board.json  | \
+  grep -v -P '"track"|"drawsegment"' | \
+  grep '"SMD"' | \
+  jq -r '. | [.text[0].text, (((25.4*.x/10000) + '$dx') | tostring) + "mm", ((('$fy'*25.4*.y/10000) + '$dy') | tostring) + "mm", "Top",((( 1*(.orientation | tonumber)/10 ) + 360) % 360) ] | @csv' | \
+  tr -d '"'
+
+
