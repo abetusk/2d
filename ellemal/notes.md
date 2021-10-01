@@ -173,3 +173,5 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Anguish, August Friedrich Schenk (1878)](https://en.wikipedia.org/wiki/August_Friedrich_Schenck#/media/File:August_Friedrich_Albrecht_Schenck_-_Anguish_-_Google_Art_Project.jpg)
 * [Spirite, George Roux (1885)](https://commons.wikimedia.org/wiki/File:George_Roux_-_Spirite,_1885.jpg#/media/File:George_Roux_-_Spirite,_1885.jpg)
 * [Ivan Bilibin](https://commons.wikimedia.org/wiki/Tales_by_Ivan_Bilibin) ([raven](https://commons.wikimedia.org/wiki/File:Ivan_Bilibin_021.jpg), [swan](https://upload.wikimedia.org/wikipedia/commons/1/17/Ivan_Bilibin_153.jpg), [swan](data/src/db-5.1.29.NC/build_unix/://upload.wikimedia.org/wikipedia/commons/3/3b/Ivan_Bilibin_126.gif))
+
+* [French Brick Patterns](https://archive.org/details/gri_33125013767591/page/n60/mode/thumb) (Constructions en briques by Detain Lacroux)
