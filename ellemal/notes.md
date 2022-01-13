@@ -175,3 +175,5 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Ivan Bilibin](https://commons.wikimedia.org/wiki/Tales_by_Ivan_Bilibin) ([raven](https://commons.wikimedia.org/wiki/File:Ivan_Bilibin_021.jpg), [swan](https://upload.wikimedia.org/wikipedia/commons/1/17/Ivan_Bilibin_153.jpg), [swan](data/src/db-5.1.29.NC/build_unix/://upload.wikimedia.org/wikipedia/commons/3/3b/Ivan_Bilibin_126.gif))
 
 * [French Brick Patterns](https://archive.org/details/gri_33125013767591/page/n60/mode/thumb) (Constructions en briques by Detain Lacroux)
+
+* [Trachten und Muster der Mordvinen Heikel, Axel Olai](https://archive.org/details/mordvalaistenpuk00heik/page/7/mode/1up) (patterns)
