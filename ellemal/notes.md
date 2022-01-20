@@ -177,3 +177,4 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [French Brick Patterns](https://archive.org/details/gri_33125013767591/page/n60/mode/thumb) (Constructions en briques by Detain Lacroux)
 
 * [Trachten und Muster der Mordvinen Heikel, Axel Olai](https://archive.org/details/mordvalaistenpuk00heik/page/7/mode/1up) (patterns)
+* [Revue De La Mode](https://archive.org/details/revuedelamode1877/page/n324/mode/thumb)
