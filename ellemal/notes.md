@@ -178,3 +178,4 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 
 * [Trachten und Muster der Mordvinen Heikel, Axel Olai](https://archive.org/details/mordvalaistenpuk00heik/page/7/mode/1up) (patterns)
 * [Revue De La Mode](https://archive.org/details/revuedelamode1877/page/n324/mode/thumb)
+* [Book of Fate](https://archive.org/details/b29321876/page/n10/mode/2up)
