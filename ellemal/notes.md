@@ -181,3 +181,6 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Book of Fate](https://archive.org/details/b29321876/page/n10/mode/2up)
 
 * [(1711-1786) An original theory ...of the universe ... by Thomas Wright](https://archive.org/details/originaltheoryor00wrig/mode/thumb)
+
+* [Legendes Rustiques by Maurice Sand](https://archive.org/details/bub_gal_ark_12148_bpt6k10455988/page/n94/mode/1up)
+
