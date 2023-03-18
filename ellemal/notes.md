@@ -184,3 +184,4 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 
 * [Legendes Rustiques by Maurice Sand](https://archive.org/details/bub_gal_ark_12148_bpt6k10455988/page/n94/mode/1up)
 
+* [Specimens of printing type made at Bruce's new york type foundry](https://archive.org/details/specimensofprint00geor/page/567/mode/thumb)
