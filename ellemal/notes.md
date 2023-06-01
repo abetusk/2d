@@ -185,3 +185,8 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Legendes Rustiques by Maurice Sand](https://archive.org/details/bub_gal_ark_12148_bpt6k10455988/page/n94/mode/1up)
 
 * [Specimens of printing type made at Bruce's new york type foundry](https://archive.org/details/specimensofprint00geor/page/567/mode/thumb)
+* [Pattern Book 'C'](https://archive.org/details/PatternBookc1913/page/n48/mode/thumb)
+* [Anatomy of pattern](https://archive.org/details/cu31924031236114/page/n17/mode/thumb)
+
+* [Sylva britannica; or, Portraits of forest trees, distinguished for their antiquity, magnitude, or beauty by  Strutt,Jacob George, 1790-1864](https://archive.org/details/sylvabritannicao00stru/page/11/mode/thumb)
+* [Strutt, Jacob George, 1790-1864](https://archive.org/search?query=creator%3A%22Strutt%2C+Jacob+George%2C+1790-1864%22)
