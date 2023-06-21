@@ -190,3 +190,7 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 
 * [Sylva britannica; or, Portraits of forest trees, distinguished for their antiquity, magnitude, or beauty by  Strutt,Jacob George, 1790-1864](https://archive.org/details/sylvabritannicao00stru/page/11/mode/thumb)
 * [Strutt, Jacob George, 1790-1864](https://archive.org/search?query=creator%3A%22Strutt%2C+Jacob+George%2C+1790-1864%22)
+
+* [The barnyard village;being the story of Mr. Blue Peacock, by Deihl, Edna Groff, 1881-1935](https://archive.org/details/barnyardvillageb00deih/page/51/mode/thumb)
+* [Snythergen by Garrott, Hal](https://archive.org/details/snythergen00garr/page/163/mode/1up)
+* [Rainbow gold; poems old and new selected for boys and girls by Teasdale, Sara, 1884-1933, compiler](https://archive.org/details/rainbowgoldpoems0000teas/page/83/mode/1up)
