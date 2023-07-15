@@ -112,7 +112,7 @@ References
 * [Among the moths and butterflies : a revised and enlarged edition of "Insect lives ; or, Born in prison"
 by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/page/92)
 * [Celestial Atlas by Alexander Jamieson](http://aa.usno.navy.mil/library/artwork/jamieson.htm)
-* [The Rubaiyat of Omar Khayyam - First Version - Illustrated](https://archive.org/details/TheRubaiyatOfOmarKhayyam-FirstVersion-Illustrated/page/n109)
+* [The Rubaiyat of Omar Khayyam - First Version - Illustrated](https://archive.org/details/TheRubaiyatOfOmarKhayyam-FirstVersion-Illustrated/page/n109) ([a](https://archive.org/details/cu31924011672403/page/n100/mode/thumb))
 * [The three circuits: a study of the primary forces by Flick, Taylor](https://archive.org/details/threecircuitsstu00flic/page/140)
 * [Zauberlinda, the wise witch](https://archive.org/details/zauberlindawisew00clap/page/50)
 * [A day's pleasure; or, The half-holiday adventures of some little people](https://archive.org/details/dayspleasureorha00geikiala/page/57)
@@ -135,6 +135,8 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Anton Sedar - Nouveau Snake and flower](https://upload.wikimedia.org/wikipedia/commons/2/2d/Anton_Seder_Roses_Snake.jpg)
 
 * [Anton Sedar - Goat and flower](http://chaosophia218.tumblr.com/post/170148597282/anton-seder-die-pflanze-in-kunst-und-gewerbe)
+
+* Anton Sedar "Pflanze in Kunst und Gewerbe" [vol 1](https://archive.org/details/diepflanzeinkuns01sede/page/n18/mode/thumb) [vol 2](https://archive.org/details/diepflanzeinkuns02sede/mode/2up), ["Das Their in der Deocorativen Kunst"](https://archive.org/details/gri_33125013920190/mode/2up)
 
 * Deer [link 0](https://archive.org/details/followingdeer00long/page/n199), [link 1](https://archive.org/details/brooklynmuseum-o1429-deer)
 
@@ -194,3 +196,26 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [The barnyard village;being the story of Mr. Blue Peacock, by Deihl, Edna Groff, 1881-1935](https://archive.org/details/barnyardvillageb00deih/page/51/mode/thumb)
 * [Snythergen by Garrott, Hal](https://archive.org/details/snythergen00garr/page/163/mode/1up)
 * [Rainbow gold; poems old and new selected for boys and girls by Teasdale, Sara, 1884-1933, compiler](https://archive.org/details/rainbowgoldpoems0000teas/page/83/mode/1up)
+
+* Ornament
+  - [styles of ornament](https://archive.org/details/stylesofornament00speluoft/page/451/mode/thumb)
+  - [historic ornament](https://archive.org/details/historicornament01ward/page/398/mode/thumb)
+  - [encyclopaedia of ornament](https://archive.org/details/encyclopaediaofo00shaw/page/n18/mode/thumb)
+  - [handbook of ornament](https://archive.org/details/HandbookOfOrnament/page/n18/mode/thumb)
+  - [analysis of ornament](https://archive.org/details/analysisornamen00worngoog/page/n84/mode/thumb)
+  - [nature in ornament](https://archive.org/details/natureinornament00dayl_0/page/41/mode/thumb)
+  - [gothic ornament](https://archive.org/details/seriesofmanualso00park/page/n30/mode/thumb)
+  - [principles of ornament](https://archive.org/details/principlesoforna00wardrich/page/145/mode/thumb)
+  - [history of ornament](https://archive.org/details/historyofornamen02haml/page/27/mode/thumb)
+  - [elements of ornament](https://archive.org/details/cu31924102731720/page/19/mode/thumb)
+  - [grammar ornament](https://archive.org/details/grammarofornamen00jone_0/page/n78/mode/thumb)
+  - [elementary principles of ornament](https://archive.org/details/elementaryprinci00ward/page/41/mode/thumb)
+  - [steel ceiling ornament](https://archive.org/details/steelceilingssid00stpa/page/33/mode/thumb)
+  - [ornament collection](https://archive.org/details/gri_33125010716633/page/n18/mode/thumb)
+  - [chinese ornament](https://archive.org/details/examplesofchines00jone/page/n174/mode/1up)
+  - [catalog ornament](https://archive.org/details/illustratedca00deco/page/161/mode/thumb)
+
+* [catalog of capitals](https://archive.org/details/catalogofcapital00gewa/page/23/mode/1up)
+* [bostwick gate company](https://archive.org/details/bostwickgatecom00clar/page/76/mode/1up)
+* Furuya, clouds? [1](https://archive.org/details/unkashuyv2furu/page/31/mode/thumb) [2](https://archive.org/details/unkashuyv1furu/page/21/mode/thumb)
+
