@@ -197,6 +197,7 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Snythergen by Garrott, Hal](https://archive.org/details/snythergen00garr/page/163/mode/1up)
 * [Rainbow gold; poems old and new selected for boys and girls by Teasdale, Sara, 1884-1933, compiler](https://archive.org/details/rainbowgoldpoems0000teas/page/83/mode/1up)
 
+
 * Ornament
   - [styles of ornament](https://archive.org/details/stylesofornament00speluoft/page/451/mode/thumb)
   - [historic ornament](https://archive.org/details/historicornament01ward/page/398/mode/thumb)
@@ -214,8 +215,35 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
   - [ornament collection](https://archive.org/details/gri_33125010716633/page/n18/mode/thumb)
   - [chinese ornament](https://archive.org/details/examplesofchines00jone/page/n174/mode/1up)
   - [catalog ornament](https://archive.org/details/illustratedca00deco/page/161/mode/thumb)
+  - [Ideen (art nouveau)](https://archive.org/details/ideenleipzig00olbr/page/54/mode/thumb)
+  - [le cuir: compositions decoratives (art nouveau)](https://archive.org/details/LeCuirCompositionsDecoratives/raymond-j-cuir-1908-BK001200-LowRes/page/n10/mode/thumb)
+  - [Documents de bijouterie et orfevrerie modernes](https://archive.org/details/DocumentsDeBijouterieEtOrfevrerieModernes/follot-p-documents-ca.1895-BK001199-LowRes/page/n23/mode/thumb)
+  - [Das Schmeckbuch, II. Band: Tafeln](https://archive.org/details/DasSchmuckbuchBd2Tafeln/rucklin-r-schmuckbuch-v2-1901-00018444-LowRes/page/n8/mode/thumb)
+  - [Dekorative Vorbilder 14](https://archive.org/details/dekorative-vorbilder-14/page/n42/mode/thumb)
+  - [Let bijoux par Maurice Dufrene](https://archive.org/details/LesBijouxParMauriceDufrene/page/n7/mode/thumb)
+  - [Dekorations Motive N 266](https://archive.org/details/dekorations-motive-n-266/page/n10/mode/1up)
+  - [Compositions Pour Dessin De Rideaux](https://archive.org/details/compositions-pour-dessin-de-rideaux/page/n53/mode/thumb)
+  - [Illustrated catalogue no. 2 of plastic relief ornaments](https://archive.org/details/illustratedcatal00fran_0/page/38/mode/thumb)
+
+
+* Architecture
+  - [Carr, Ryder and Adams, Co.](https://archive.org/details/CarrRyderAndAdamsCo./page/n240/mode/thumb)
+  - [first book of architecture](https://archive.org/details/bookofarchitectu00pall/page/121/mode/thumb)
+  - [first booke of architecture](https://archive.org/details/ldpd_12760359_000/page/n276/mode/thumb)
+  - [Harris Brothers Co](https://archive.org/details/HarrisBrosCatalogNo1880001/page/n96/mode/thumb)
+  - [handbook of architectural styles](https://archive.org/details/handbookofarchit00rose/mode/thumb)
+  - [glossary](https://archive.org/details/americanglossary00garn/page/n24/mode/thumb)
+  - gothic [vol 1](https://archive.org/details/specimensofgothi01pugi_2/page/n8/mode/1up) [vol 2](https://archive.org/details/specimensofgothi02pugi_2/page/n108/mode/thumb)
+  - palladio [1](https://archive.org/details/architectureofap0001pall/page/3/mode/thumb) [2](https://archive.org/details/gri_33125008860989/page/n299/mode/2up) [3](https://archive.org/details/architectureofapvol2pall/page/138/mode/2up) [x](https://archive.org/details/andreapalladiosa00pall/page/n431/mode/thumb)
 
 * [catalog of capitals](https://archive.org/details/catalogofcapital00gewa/page/23/mode/1up)
 * [bostwick gate company](https://archive.org/details/bostwickgatecom00clar/page/76/mode/1up)
 * Furuya, clouds? [1](https://archive.org/details/unkashuyv2furu/page/31/mode/thumb) [2](https://archive.org/details/unkashuyv1furu/page/21/mode/thumb)
+* [chaucer](https://archive.org/details/MorrisChaucer/page/n38/mode/1up)
 
+* Ithaca
+  - [Picturesque Ithaca](https://archive.org/details/picturesqueithac00itha/page/n23/mode/1up)
+  - [Views of Ithaca](https://archive.org/details/cu31924052505868/page/n23/mode/thumb)
+  - [Illustrated guide book of the Ithaca Gorge, and its surroundings](https://archive.org/details/illustratedguide00john/page/n84/mode/thumb)
+  - [The scenery of Ithaca and the head waters of the Cayuga lake](https://archive.org/details/sceneryofithacah01spen/page/149/mode/thumb)
+  - [Ithaca, N.Y. as a city of residence and manufacture](https://archive.org/details/cu31924096224484/page/31/mode/thumb)
