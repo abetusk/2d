@@ -197,6 +197,7 @@ by Ballard, Julia P.](https://archive.org/details/amongmothsbutter00balluoft/pag
 * [Snythergen by Garrott, Hal](https://archive.org/details/snythergen00garr/page/163/mode/1up)
 * [Rainbow gold; poems old and new selected for boys and girls by Teasdale, Sara, 1884-1933, compiler](https://archive.org/details/rainbowgoldpoems0000teas/page/83/mode/1up)
 
+* [Merian Metamorphosis](https://archive.org/details/gri_33125008530400/page/n149/mode/thumb) ([pdr](https://publicdomainreview.org/collection/merian-metamorphosis/))
 
 * Ornament
   - [styles of ornament](https://archive.org/details/stylesofornament00speluoft/page/451/mode/thumb)
